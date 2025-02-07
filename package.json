@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "github:seiren-primrose/PL-Baileys",
+    "moment": "^2.30.1",
+    "axios": "^1.6.8",
+    "chalk": "^4.1.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "pino": "^9.5.0"
+  },
+  "name": "SHOYU CRASHER",
+  "version": "2.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "RenXiter",
+  "license": "ISC",
+  "description": ""
+}
