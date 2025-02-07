@@ -1617,7 +1617,7 @@ isForwarded: true,
 quotedAd: {
 advertiserName: " x ",
 mediaType: "IMAGE",
-jpegThumbnail: tdxlol,
+jpegThumbnail: CeLalol,
 caption: " x "
 },
 placeholderKey: {
@@ -1652,7 +1652,7 @@ renderLargerThumbnail: false,
 showAdAttribution: false,
 containsAutoReply: false,
 body: "© running since 2020 to 20##?",
-thumbnail: tdxlol,
+thumbnail: CeLalol,
 sourceUrl: "go fuck yourself",
 sourceId: "dvx - problem",
 ctwaClid: "cta",
