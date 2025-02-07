@@ -1899,7 +1899,7 @@ async function systemUi(target, Ptcp = false) {
         }
     }, { participant: { jid: target, quoted: QBug } }, { messageId: null });
 };
-	async function +ui2(target, ptcp = false) {
+	async function crashui2(target, ptcp = false) {
     await cella.relayMessage(target, {
         groupMentionedMessage: {
             message: {
