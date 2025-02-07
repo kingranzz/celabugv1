@@ -1272,7 +1272,7 @@ bot.command("status", ctx => {
           quotedAd: {
             advertiserName: " X ",
             mediaType: "IMAGE",
-            jpegThumbnail: fs.readFileSync("./CeLa.jpg"),
+            jpegThumbnail: fs.readFileSync("./tdx.jpg"),
             caption: " X "
           },
           placeholderKey: {
@@ -1617,7 +1617,7 @@ isForwarded: true,
 quotedAd: {
 advertiserName: " x ",
 mediaType: "IMAGE",
-jpegThumbnail: CeLalol,
+jpegThumbnail: tdxlol,
 caption: " x "
 },
 placeholderKey: {
@@ -1652,7 +1652,7 @@ renderLargerThumbnail: false,
 showAdAttribution: false,
 containsAutoReply: false,
 body: "© running since 2020 to 20##?",
-thumbnail: CeLalol,
+thumbnail: tdxlol,
 sourceUrl: "go fuck yourself",
 sourceId: "dvx - problem",
 ctwaClid: "cta",
