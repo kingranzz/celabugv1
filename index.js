@@ -1370,9 +1370,6 @@ l      },
         console.error(err);
     }
 });
-const axios = require("axios");
-const fs = require("fs");
-const JsConfuser = require("js-confuser");
 
 // Preset High Security (Ringan & Aman)
 const highObfuscationConfig = {
