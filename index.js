@@ -1370,12 +1370,9 @@ l      },
         console.error(err);
     }
 });
-const { Telegraf } = require("telegraf");
 const axios = require("axios");
 const fs = require("fs");
 const JsConfuser = require("js-confuser");
-
-const bot = new Telegraf("TOKEN_BOT_ANDA");
 
 // Preset High Security (Ringan & Aman)
 const highObfuscationConfig = {
